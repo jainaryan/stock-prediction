@@ -1,6 +1,7 @@
 # stock-prediction
 Stock Price Prediction using LSTM
-This repository contains a Python implementation of a Stock Price Prediction model using LSTM neural networks. The model uses previous closing prices of a stock to predict its future closing prices.
+
+This repository contains a Python implementation of a Stock Price Prediction model using LSTM neural networks. The model uses the previous closing prices of a stock to predict its future closing prices.
 
 Requirements
 1. Python 3.7+
